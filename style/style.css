@@ -10654,3 +10654,16 @@ html[dir=rtl] .drive-safety__pool-image {
 .sub-wrapper {
     background: #E5E5E4
 }
+
+quote-wrapper {
+  max-width: 1100px
+}
+
+@media only screen and (max-width: 1560px) and (min-width: 1281px){
+  ._style_27rK6s {
+      padding-top: 80px;
+      padding-right: 6.6vw;
+      padding-bottom: 64px;
+      padding-left: 6.6vw;
+  }
+}
